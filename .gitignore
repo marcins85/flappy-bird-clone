@@ -7,8 +7,8 @@
 [Ll]ogs/
 [Uu]ser[Ss]ettings/
 .vs/
-ProjectSettings/
 MemoryCaptures/
+# ProjectSettings/
 
 # 🧠 Pliki tymczasowe i konfiguracje IDE
 *.csproj
@@ -41,5 +41,5 @@ savePoints.txt
 *.sln.iml
 
 # 📦 Unity Package Manager
-Packages/manifest.json
-Packages/packages-lock.jso
+# Packages/manifest.json
+# Packages/packages-lock.jso
