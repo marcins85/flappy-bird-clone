@@ -1,0 +1,45 @@
+# 📁 Foldery generowane przez Unity i IDE
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+.vs/
+ProjectSettings/
+MemoryCaptures/
+
+# 🧠 Pliki tymczasowe i konfiguracje IDE
+*.csproj
+*.sln
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+.vsconfig
+
+# 🎮 Pliki binarne i paczki
+*.apk
+*.unitypackage
+
+# 📄 Pliki tekstowe użytkownika (opcjonalnie)
+record.txt
+savePoints.txt
+
+# ✅ Zachowaj pliki .meta w Assets
+!Assets/**/*.meta
+
+# 🔧 Rider / JetBrains (jeśli używasz)
+.idea/
+*.sln.iml
+
+# 📦 Unity Package Manager
+Packages/manifest.json
+Packages/packages-lock.jso
